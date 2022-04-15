@@ -7,8 +7,8 @@ body{
       font-size: medium;
 }
 
-.bold {
-    font-style:initial;
+.color {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .new_font {
