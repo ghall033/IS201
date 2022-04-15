@@ -3,8 +3,8 @@ body{
 }
 
 .big_header {
-        font-size: 45px;
-        font-style: italic;
+      color:cornsilk;
+      font-size: medium;
 }
 
 .bold {
@@ -12,7 +12,9 @@ body{
 }
 
 .new_font {
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 48px;
+    text-align: center;
 }
 
 .italic {
